@@ -1,0 +1,12 @@
+2022/3/2
+Montalegre
+['Kasidu', 'Benura', 'manusha', 'Sanka']
+[1, 2, 3, 4]
+['10', '30', '20', '40']
+
+2022/4/1
+Norway
+['manusha', 'Kasidu', 'Benura', 'Sanka']
+[1, 2, 3, 4]
+[25, 20, 37, '40']
+

@@ -1,0 +1,4 @@
+manusha,23,b,aqua,35
+Kasidu,23,a,subaru,27
+Benura,34,c,Ford,42
+Sanka,21,d,Prius,40
